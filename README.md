@@ -45,10 +45,10 @@ urllib3 can be installed with [pip](https://pip.pypa.io):
 $ python -m pip install urllib3
 ```
 
-Alternatively, you can grab the latest source code from [GitHub](https://github.com/urllib3/urllib3):
+Alternatively, you can grab the latest source code from [GitHub](https://github.com/auraecosystem/urllib3):
 
 ```bash
-$ git clone https://github.com/urllib3/urllib3.git
+$ git clone https://github.com/auraecosystem/urllib3.git
 $ cd urllib3
 $ pip install .
 ```
